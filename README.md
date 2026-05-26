@@ -11,9 +11,9 @@
 <!-- BADGES ROW -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=midhlajp&style=for-the-badge&color=C8FF00&labelColor=0d0d0d&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=pixalote&style=for-the-badge&color=C8FF00&labelColor=0d0d0d&label=PROFILE+VIEWS)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-midhlajp-C8FF00?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d0d0d)](https://www.linkedin.com/in/midhlajp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pixalote-C8FF00?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d0d0d)](https://www.linkedin.com/in/midhlajp)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Pixel+Alot-@pixalote-C8FF00?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0d0d0d)](https://www.instagram.com/pixalote/)
 &nbsp;
@@ -43,7 +43,7 @@ superpower : Design meets Data meets Intelligence
 
 ## `$ cat about.md`
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhlajp&layout=donut&theme=transparent&title_color=C8FF00&text_color=ffffff&icon_color=C8FF00&border_color=222222&bg_color=0d0d0d&hide_border=false&langs_count=6" />
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixalote&layout=donut&theme=transparent&title_color=C8FF00&text_color=ffffff&icon_color=C8FF00&border_color=222222&bg_color=0d0d0d&hide_border=false&langs_count=6" />
 
 🎨 &nbsp;**Designer by passion** — Posters, brand visuals, social creatives, web UI  
 🤖 &nbsp;**AI explorer** — Generative AI workflows, prompt engineering, AI-assisted design  
@@ -91,9 +91,9 @@ superpower : Design meets Data meets Intelligence
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=midhlajp&show_icons=true&theme=transparent&title_color=C8FF00&text_color=ffffff&icon_color=C8FF00&border_color=222222&bg_color=0d0d0d&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pixalote&show_icons=true&theme=transparent&title_color=C8FF00&text_color=ffffff&icon_color=C8FF00&border_color=222222&bg_color=0d0d0d&hide_border=false&include_all_commits=true&count_private=true"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://streak-stats.demolab.com?user=midhlajp&theme=transparent&background=0d0d0d&border=222222&stroke=C8FF00&ring=C8FF00&fire=FF4D00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=C8FF00&sideLabels=888888&dates=888888"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=pixalote&theme=transparent&background=0d0d0d&border=222222&stroke=C8FF00&ring=C8FF00&fire=FF4D00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=C8FF00&sideLabels=888888&dates=888888"/>
 
 </div>
 
@@ -105,7 +105,7 @@ superpower : Design meets Data meets Intelligence
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=midhlajp&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pixalote&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -117,7 +117,7 @@ superpower : Design meets Data meets Intelligence
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=midhlajp&bg_color=0d0d0d&color=C8FF00&line=C8FF00&point=FF4D00&area=true&area_color=C8FF00&border_color=222222&hide_border=false&custom_title=Contribution+Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pixalote&bg_color=0d0d0d&color=C8FF00&line=C8FF00&point=FF4D00&area=true&area_color=C8FF00&border_color=222222&hide_border=false&custom_title=Contribution+Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -127,18 +127,12 @@ superpower : Design meets Data meets Intelligence
 
 ## `$ watch snake.gif`
 
-<!-- 
-  ⚙️  SETUP REQUIRED:
-  1. Create repo: github.com/<your-username>/<your-username>
-  2. Add this GitHub Action to .github/workflows/snake.yml (code below)
-  3. Snake gif auto-generates at: github-contribution-grid-snake-dark.svg
--->
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/midhlajp/midhlajp/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/midhlajp/midhlajp/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/midhlajp/midhlajp/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pixalote/pixalote/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pixalote/pixalote/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake eating my contributions" width="100%" src="https://raw.githubusercontent.com/pixalote/pixalote/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
