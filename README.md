@@ -105,7 +105,7 @@ superpower : Design meets Data meets Intelligence
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pixalote&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pixalote&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
