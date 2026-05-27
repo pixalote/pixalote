@@ -147,7 +147,7 @@ superpower : Design meets Data meets Intelligence
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | 🎨 **Pixel Alot** | Creative design brand — branding, posters, ad creatives | Design · AI | [![View](https://img.shields.io/badge/View-C8FF00?style=flat-square&logo=instagram&logoColor=black)](https://www.instagram.com/pixalote/) |
-| 🌐 **Portfolio** | Personal portfolio — dark minimal design system | Next.js · Tailwind | [![View](https://img.shields.io/badge/View-C8FF00?style=flat-square&logo=vercel&logoColor=black)](#) |
+| 🌐 **Portfolio** | Personal portfolio — dark minimal design system | Next.js · Tailwind | [![View](https://img.shields.io/badge/View-C8FF00?style=flat-square&logo=vercel&logoColor=black)](https://pixalote.vercel.app/) |
 | 📊 **Data Viz Project** | Data visualization explorations | Python · D3.js | 🔨 In Progress |
 | 🤖 **AI Workflows** | Generative AI experiments & prompt engineering | Claude · GPT | 🔨 In Progress |
 
